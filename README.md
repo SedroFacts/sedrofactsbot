@@ -1,7 +1,7 @@
 Sedro Facts Bot by Sedro Facts (Inc) - Sedro Facts (Inc) by Sedro Inc
 
 
-(Teleram Bot) t.me/sedrofactsbot
+(Telegram PHP Bot) t.me/sedrofactsbot
 
 
 
