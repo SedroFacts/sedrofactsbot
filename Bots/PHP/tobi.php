@@ -1,5 +1,7 @@
 <?php
 
+<!--- (Testing) PHP Bot - Tobi by Sedro Inc --->
+
 $token = "API_TOKEN";
 $link1 = "https://api.telegram.org/bot".$token;
 
