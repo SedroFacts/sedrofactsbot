@@ -1,6 +1,9 @@
 Sedro Facts Bot by Sedro Facts (Inc) - Sedro Facts (Inc) by Sedro Inc
 
 
+(Teleram Bot) t.me/sedrofactsbot
+
+
 
  GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
