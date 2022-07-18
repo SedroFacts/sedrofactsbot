@@ -80,5 +80,4 @@ $url = $GLOBALS[link1].'/sendMessage?chat_id='.$msgID.'&text='.urlencode($text);
 file_get_contents($url);
 }
 
-<!--- basic setup from https://github.com/Senhas-t/Programming_tricks-bot/blob/master/%40teirood_bot.php --->
 ?>
